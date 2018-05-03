@@ -3,7 +3,7 @@ package supervisord
 import (
 	"errors"
 
-	"github.com/kolo/xmlrpc"
+	"github.com/dmuntean/xmlrpc"
 )
 
 type (
